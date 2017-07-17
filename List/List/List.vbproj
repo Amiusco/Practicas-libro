@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\CTelefono.vb" />
+    <Compile Include="Clases\FactoriaCTelefono.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>

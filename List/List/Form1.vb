@@ -29,13 +29,37 @@
 
 	Private Sub btBorrar_Click(sender As Object, e As EventArgs) Handles btBorrar.Click
 
+		If cm.Position < 0 Then Return
 
+		colTfnos.RemoveAt(cm.Position)
+			cm.Refresh()
 
 	End Sub
 
 	Private Sub btModificar_Click(sender As Object, e As EventArgs) Handles btModificar.Click
 
+		Dim cambios As Boolean = False
 
+		If ctNombre.Text.Length <> 0 Then
+
+			TryCast(cm.Current, CTelefono).Nombre = ctNombre.Text
+			cambios = True
+
+		End If
+
+		Dim tef As Decimal = 0
+		If ctTfno.Text.Length <> 0 AndAlso Decimal.TryParse(ctTfno.Text, tef) Then
+
+			TryCast(cm.Current, CTelefono).Telefono = tef
+			cambios = True
+
+		End If
+
+		If cambios Then
+
+			cm.Refresh()
+
+		End If
 
 	End Sub
 End Class

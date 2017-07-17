@@ -1,0 +1,11 @@
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\bin\Debug\List.exe.config
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\bin\Debug\List.exe
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\bin\Debug\List.pdb
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\bin\Debug\List.xml
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.vbprojResolveAssemblyReference.cache
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.Form1.resources
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.Resources.resources
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.vbproj.GenerateResource.Cache
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.exe
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.xml
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\List\List\obj\Debug\List.pdb
